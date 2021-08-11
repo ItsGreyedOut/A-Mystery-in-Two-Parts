@@ -1,3 +1,7 @@
+--SQL-Challenge
+--GT
+--Employee Queries
+--
 -- #1 - List the following details of each employee: employee number, last name, first name, sex, and salary.
 SELECT employees.emp_no, employees.last_name, employees.first_name, employees.gender, salaries.salary
 FROM employees 
