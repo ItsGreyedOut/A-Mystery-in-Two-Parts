@@ -1,4 +1,4 @@
-# SQL Project - Employee Database: A Mystery in Two Parts
+# A Mystery in Two Parts
 
 ![sql.png](sql.png)
 
